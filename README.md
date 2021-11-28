@@ -17,3 +17,6 @@ https://easyupload.io/89tkad
 d2hhdCBpcyBIZXg/CgoKWyBIZXggbXVreWFtIEJpZ2lsZWFhIF0=
 
 ```
+
+
+### FLAG FORMAT : hello.friend{}
