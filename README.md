@@ -9,7 +9,7 @@ https://easyupload.io/89tkad
 ```
 
 
-# Hint 1: see how png works
+## Hint 1: see how png works
 
 ## Hint 2: DECRYPT THIS
 
